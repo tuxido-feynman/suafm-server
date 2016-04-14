@@ -1,0 +1,1 @@
+web: gunicorn suafm.wsgi --log-file -
